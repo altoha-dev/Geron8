@@ -1,3 +1,4 @@
+// Первая Подзадача
 type Tperiod = {
   closeProjects: number;
   income: number;
@@ -10,7 +11,7 @@ type Tseason = {
   spring: Tperiod;
   summer: Tperiod;
   autumn: Tperiod;
-};
+};                                                                          
 const seasons: Tseason = {
   winter: {
     closeProjects: 10,

@@ -5,7 +5,7 @@ type TEmployee = {
     isClosedProjects: boolean;
     salary: number;
   };
-  
+  type Tdepartment = {}
   const employees: TEmployee[] = [
     {
       "name": "John",
